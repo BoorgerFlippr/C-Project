@@ -1,0 +1,13 @@
+Name:           Glenn Parreno
+Student Number: 115 814 196
+Email:          geparrenoID@myseneca.ca
+Section:        IPC144NDD
+Date:           July 15
+
+Reflection
+
+One of the many things I have learned in this workshop is how to properly utilise C strings. First of all, after doing this assignment I learned that it is better to specify how many how many characters I need to scan and store in my C string. Doing that it saves more data and it makes sure that everything gets scanned. I also learned something from the errors I hsve encountered in making this assignment. I need to clear my keyboard so the C program does not scan random stuff. For example in the sample output the postal code and middle name requires more than the amount of characters allocated. So it remains in the input buffer and gets scanned by the next scanf function.
+
+A function is a set of instructions needed to perform a task. The same can also be said about programming. That is why it is needed for every procedural programming language because that is what programming is. Functions are implemented a lot in my assignment. Take for example the many helper functions I have. The get int function is a function that contains a set of instructions to make sure the user input is an int and not any other types of data. Also self contained functions is a good way to support the entire program. Functions can be implemented to get rid of redundancy in a C program. That is why functions are needed in any programming languages.
+
+One reason why I believe that the helper functions are in a separate file than those that are in the contacts.c file is because of organization. The helper functions are in their own separate file because those function will be used throughout the program to support it. Meanwhile those in the contacts.c file are functions that have the purpose of filling in data that will be stored in the contacts struct.
