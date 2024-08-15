@@ -1,0 +1,4 @@
+﻿  contacts.c
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\Assignment1\contacts.c(12,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\Assignment1\contacts.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Assignment1.vcxproj -> C:\Users\pglen\OneDrive\Desktop\ipc144(2)\Assignment1\Debug\Assignment1.exe
