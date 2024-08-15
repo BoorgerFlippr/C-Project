@@ -1,0 +1,6 @@
+﻿  contactHelpers.c
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\assignment2milestone3\contactHelpers.c(181,28): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  contacts.c
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\assignment2milestone3\Debug\assignment2milestone3.exe : fatal error LNK1120: 1 unresolved externals
