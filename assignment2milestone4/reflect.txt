@@ -1,0 +1,9 @@
+// Name:           Glenn Parreno
+// Student Number: 115 814 196
+// Email:          geparreno@myseneca.ca
+// Section:        IPC144 NDD
+// Date:           July 26
+
+	Doing this milestone enabled me to learn how to crate menu based programs and how to work with C strings extensively. These milestone pushed my knowledge of programming to its limits. It also enabled me to apply what I have learned althroughout this course, building a stronger foundation of my programming skill. Another thing I learned is how to work with multiple functions, header files and source files. I manage to figure out how to put them all together and it makes my skill better.
+	The functions findContactIndex and getTenDigitPhone help supplement my workshop because these are common methods found throughout it. It makes my source code look better and neater because instead of writing them multiple time I can easily call a fuction saving me from more clutter on the screen. Another reason on why this is good is because of maintenance For example if you want to mak it so it accepts 11 number you can just change it in one place.
+	I would very much like this assignment to have a save load function to a textfile data. This assignment has many in real life application and it would benefit from a function like that. One of the reason being that I could organize my real life contact and easily access it in well put out manner.
